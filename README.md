@@ -18,13 +18,16 @@
 [![](https://img.shields.io/badge/java-fb8532?style=for-the-badge&logo=java)]()
 [![](https://img.shields.io/badge/JavaScript-fb8532?style=for-the-badge&logo=JavaScript)]()
 [![](https://img.shields.io/badge/python-fb8532?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/DotNet-fb8532?style=for-the-badge&logo=.Net)]()
+[![](https://img.shields.io/badge/SpringFramework-fb8532?style=for-the-badge&logo=spring)]()
 [![](https://img.shields.io/badge/pandas-fb8532?style=for-the-badge&logo=pandas)]()
 [![](https://img.shields.io/badge/Django-fb8532?style=for-the-badge&logo=Django)]()
 [![](https://img.shields.io/badge/react-fb8532?style=for-the-badge&logo=react)]()
 [![](https://img.shields.io/badge/node.js-fb8532?style=for-the-badge&logo=node.js)]()
-[![](https://img.shields.io/badge/symfony-fb8532?style=for-the-badge&logo=symfony)]()
-
-
+[![](https://img.shields.io/badge/Unity3D-fb8532?style=for-the-badge&logo=unity)]()
+[![](https://img.shields.io/badge/AndroidStudio-fb8532?style=for-the-badge&logo=android)]()
+[![](https://img.shields.io/badge/Linux-fb8532?style=for-the-badge&logo=linux)]()
+[![](https://img.shields.io/badge/Ubuntu-fb8532?style=for-the-badge&logo=ubuntu)]()
 
 
 
