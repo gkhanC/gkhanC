@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/gkhn_dev?style=social)
+https://img.shields.io/twitter/follow/gkhn_dev?label=%40gkhn_dev&style=social
 
 <!--
 **gkhanC/gkhanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
