@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Gökhan Tutku Çay
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gkhanC&show_icons=true&theme=radical">
 
+## I'm Software Developer 
+- I'm currently learning everything 😄
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gkhn_dev?style=social)](https://twitter.com/gkhn_dev)
 
