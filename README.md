@@ -33,7 +33,7 @@
 
 
 
-
+![alt text](https://raw.githubusercontent.com/gkhanC/gkhanC/blob/master/Gokhan-Cay-CV.pdf)
 
 
 
