@@ -32,7 +32,12 @@
 [![](https://img.shields.io/badge/Ubuntu-fb8532?style=for-the-badge&logo=ubuntu)]()
 
 
-
+["Cv"](https://github.com/gkhanC/gkhanC/blob/master/Gokhan-Cay-CV.pdf)
+["C Programlama Ornekleri"](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/C)
+["C++ Programlama Ornekleri"](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/Cpp)
+["C# Programlama Ornekleri"](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/C%23)
+["Java Programlama Ornekleri"](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/Java)
+[Game Projects"](https://github.com/gkhanC/GameProjects)
 
 
 <!--
