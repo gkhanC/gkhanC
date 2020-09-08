@@ -40,9 +40,10 @@
 [![](https://img.shields.io/badge/Game-Projects-DodgerBlue)](https://github.com/gkhanC/GameProjects)
 
 #### My GitHub
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gkhanC&theme=highcontrast&show_icons=true&repo=Sample-Projects&hide=TSQL,ShaderLab,HLSL)](https://github.com/gkhanC/Sample-Projects)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&theme=blue-green&show_icons=true&hide=TSQL,ShaderLab,HLSL&layout=compact)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=Sample-Projects&langs=C)](https://github.com/gkhanC/Sample-Projects/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=Game-Projects&langs=C)](https://github.com/gkhanC/GameProjects)
 
 
 <!--
