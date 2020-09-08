@@ -14,7 +14,7 @@
 
 ## Interests
 [![](https://img.shields.io/badge/C-DimGrey?style=for-the-badge&logo=C)]()
-[![](https://img.shields.io/badge/csharp-DimGrey?style=for-the-badge&logo=C#)]()
+[![](https://img.shields.io/badge/csharp-DimGrey?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/java-DimGrey?style=for-the-badge&logo=java)]()
 [![](https://img.shields.io/badge/JavaScript-DimGrey?style=for-the-badge&logo=JavaScript)]()
 [![](https://img.shields.io/badge/python-DimGrey?style=for-the-badge&logo=python)]()
@@ -41,6 +41,7 @@
 
 #### My GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&theme=blue-green&show_icons=true&hide=TSQL,ShaderLab,HLSL&layout=compact)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=Sample-Projects)](https://github.com/gkhanC/Sample-Projects/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=GameProjects)](https://github.com/gkhanC/GameProjects/)
