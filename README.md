@@ -12,9 +12,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/gkhanC/count.svg)
 
-## My GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&hide=TeX&layout=compact)
-
 ## Interests
 [![](https://img.shields.io/badge/C-DimGrey?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/csharp-DimGrey?style=for-the-badge&logo=C#)]()
@@ -41,6 +38,11 @@
 [![](https://img.shields.io/badge/CSharp-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/Sample-Projects/tree/master/C%23)
 [![](https://img.shields.io/badge/Java-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/Sample-Projects/tree/master/Java)
 [![](https://img.shields.io/badge/Game-Projects-DodgerBlue)](https://github.com/gkhanC/GameProjects)
+
+#### My GitHub
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&hide=TeX&layout=compact)
 
 
 <!--
