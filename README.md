@@ -41,8 +41,8 @@
 
 #### My GitHub
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&hide=TeX&layout=compact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gkhanC&theme=highcontrast&show_icons=true&repo=Sample-Projects&hide=TSQL,ShaderLab,HLSL)](https://github.com/gkhanC/Sample-Projects)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&theme=blue-green&show_icons=true&hide=TSQL,ShaderLab,HLSL&layout=compact)
 
 
 <!--
