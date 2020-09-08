@@ -36,10 +36,10 @@
 
 [![](https://img.shields.io/badge/CV-Gökhan%20Çay-gold)](https://github.com/gkhanC/gkhanC/blob/master/Gokhan-Cay-CV.pdf)
 
-[![](https://img.shields.io/badge/C-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/C)
-[![](https://img.shields.io/badge/C++-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/Cpp)
-[![](https://img.shields.io/badge/CSharp-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/C%23)
-[![](https://img.shields.io/badge/Java-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/ProgramlamaOrnekleri/tree/master/Java)
+[![](https://img.shields.io/badge/C-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/Sample-Projects/tree/master/C)
+[![](https://img.shields.io/badge/C++-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/Sample-Projects/tree/master/Cpp)
+[![](https://img.shields.io/badge/CSharp-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/Sample-Projects/tree/master/C%23)
+[![](https://img.shields.io/badge/Java-Programlama%20Örnekleri-DodgerBlue)](https://github.com/gkhanC/Sample-Projects/tree/master/Java)
 [![](https://img.shields.io/badge/Game-Projects-DodgerBlue)](https://github.com/gkhanC/GameProjects)
 
 
