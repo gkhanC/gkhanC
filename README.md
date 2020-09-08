@@ -15,7 +15,7 @@
 ## My GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&hide=TeX&layout=compact)
 
-# Interests
+## Interests
 [![](https://img.shields.io/badge/C-Indigo?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/csharp-Indigo?style=for-the-badge&logo=C#)]()
 [![](https://img.shields.io/badge/java-Indigo?style=for-the-badge&logo=java)]()
