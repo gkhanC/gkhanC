@@ -43,7 +43,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhanC&theme=blue-green&show_icons=true&hide=TSQL,ShaderLab,HLSL&layout=compact)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=Sample-Projects)](https://github.com/gkhanC/Sample-Projects/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=Sample-Projects)](https://github.com/gkhanC/Sample-Projects/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=GameProjects)](https://github.com/gkhanC/GameProjects/)
 
 <!--
