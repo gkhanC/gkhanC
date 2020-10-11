@@ -31,7 +31,7 @@
 
 ### Links :
 
-[![](https://img.shields.io/badge/CV-Gökhan%20Çay-gold)](https://github.com/gkhanC/gkhanC/blob/master/gkhan_%20CV_V1.pdf)
+[![](https://img.shields.io/badge/CV-Gökhan%20Çay-gold)](https://github.com/gkhanC/gkhanC/blob/master/gkhan_v1_CV.pdf)
 
 [![](https://img.shields.io/badge/C-Programlama%20Örnekleri-purple)](https://github.com/gkhanC/Sample-Projects/tree/master/C)
 [![](https://img.shields.io/badge/C++-Programlama%20Örnekleri-purple)](https://github.com/gkhanC/Sample-Projects/tree/master/Cpp)
@@ -46,7 +46,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=Sample-Projects)](https://github.com/gkhanC/Sample-Projects/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=GameProjects)](https://github.com/gkhanC/GameProjects/)
 
-![CV Pic](https://github.com/gkhanC/gkhanC/blob/master/gkhan_%20CV_V1.jpg)
+![CV Pic](https://github.com/gkhanC/gkhanC/blob/master/gkhan_v1_CV.jpg)
 
 
 <!--
