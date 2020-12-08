@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm SerChe ( Gökhan Tutku Çay )
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gkhanC&show_icons=true&theme=chartreuse-dark">
 
-## I'm a Developer 
+ 
 - I'm currently learning everything 😄
 
 
@@ -12,7 +12,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/gkhanC/count.svg)
 
+## Skills
+[![](https://github.com/gkhanC/rozet/blob/master/minicsharpRozet.png)]()
+
 ## Interests
+
 [![](https://img.shields.io/badge/C-crimson?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/csharp-crimson?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/java-crimson?style=for-the-badge&logo=java)]()
@@ -28,6 +32,7 @@
 [![](https://img.shields.io/badge/AndroidStudio-crimson?style=for-the-badge&logo=android)]()
 [![](https://img.shields.io/badge/Linux-crimson?style=for-the-badge&logo=linux)]()
 [![](https://img.shields.io/badge/Ubuntu-crimson?style=for-the-badge&logo=ubuntu)]()
+
 
 ### Links :
 
