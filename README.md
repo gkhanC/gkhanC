@@ -14,6 +14,9 @@
 
 ## Skills
 [![](https://github.com/gkhanC/rozet/blob/master/minicsharpRozet.png)]()
+[![](https://github.com/gkhanC/rozet/blob/master/cpprozet.png)]()
+[![](https://github.com/gkhanC/rozet/blob/master/javarozet.png)]()
+[![](https://github.com/gkhanC/rozet/blob/master/gamerozet.png)]()
 
 ## Interests
 
