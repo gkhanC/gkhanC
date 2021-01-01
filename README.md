@@ -12,6 +12,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/gkhanC/count.svg)
 
+
+
+
 ## Skills
 [![](https://github.com/gkhanC/rozet/blob/master/minicsharpRozet.png)]()
 [![](https://github.com/gkhanC/rozet/blob/master/cpprozet.png)]()
