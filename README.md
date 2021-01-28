@@ -7,6 +7,8 @@
 
 
 
+
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gkhantutkucay/)
 [![Mail Badge](https://img.shields.io/badge/caygkhan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caygkhan@gmail.com)](mailto:caygkhan@gmail.com)
 
@@ -55,7 +57,12 @@
 
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=Sample-Projects)](https://github.com/gkhanC/Sample-Projects/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=GameProjects)](https://github.com/gkhanC/GameProjects/) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&hide=TSQL,ShaderLab,HLSL&username=gkhanC&theme=vision-friendly-dark&show_icons=true&repo=GameProjects)](https://github.com/gkhanC/GameProjects/) 
+# <a name="git">New Document</a>
+<a href="#git">git:</a>
+-->
+
+
 
 ![CV Pic](https://github.com/gkhanC/gkhanC/blob/master/gkhan_v1_CV.jpg)
 
