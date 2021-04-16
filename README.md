@@ -2,12 +2,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gkhanC&show_icons=true&theme=chartreuse-dark">
 
  
-- I'm currently learning everything 😄
-
-
-
-
-
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gkhantutkucay/)
 [![Mail Badge](https://img.shields.io/badge/caygkhan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:caygkhan@gmail.com)](mailto:caygkhan@gmail.com)
