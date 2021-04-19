@@ -58,7 +58,7 @@
 
 
 
-![CV Pic](https://github.com/gkhanC/gkhanC/blob/master/gkhan_v1_CV.jpg)
+![CV Pic](https://github.com/gkhanC/gkhanC/blob/master/CV2021.png)
 
 
 <!--
