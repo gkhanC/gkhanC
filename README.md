@@ -1,4 +1,4 @@
-### Hi there 👋 I'm SerChe ( Gökhan Tutku Çay )
+### Hi there 👋 I'm Gökhan Tutku Çay
 <!--
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gkhanC&show_icons=true&theme=chartreuse-dark">
 -->
