@@ -61,7 +61,7 @@
 
 
 
-![CV Pic](https://github.com/gkhanC/gkhanC/blob/master/CV2021.png)
+![CV Pic](https://github.com/gkhanC/gkhanC/blob/master/CV2022.png)
 
 
 <!--
